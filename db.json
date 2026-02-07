@@ -1,0 +1,63 @@
+{
+  "squads": {
+    "Men": [
+      { "id": 1, "name": "David Raya", "number": 1, "position": "Goalkeeper", "appearances": 25 },
+      { "id": 2, "name": "Kepa Arrizabalaga", "number": 13, "position": "Goalkeeper", "appearances": 22 },
+      { "id": 3, "name": "Tommy Setford", "number": 35, "position": "Goalkeeper", "appearances": 18 },
+      { "id": 4, "name": "William Saliba", "number": 2, "position": "Defender", "appearances": 24 },
+      { "id": 5, "name": "Cristhian Mosquera", "number": 3, "position": "Defender", "appearances": 20 },
+      { "id": 6, "name": "Ben White", "number": 4, "position": "Defender", "appearances": 20 },
+      { "id": 7, "name": "Piero Hincapie", "number": 5, "position": "Defender", "appearances": 18 },
+      { "id": 8, "name": "Gabriel", "number": 6, "position": "Defender", "appearances": 18 },
+      { "id": 9, "name": "Jurrien Timber", "number": 12, "position": "Defender", "appearances": 16 },
+      { "id": 10, "name": "Ricardo Calafiori", "number": 33, "position": "Defender", "appearances": 15 },
+      { "id": 11, "name": "Miles-Lewis Skelly", "number": 49, "position": "Defender", "appearances": 20 },
+      { "id": 12, "name": "Martin Ødegaard", "number": 8, "position": "Midfielder", "appearances": 19 },
+      { "id": 13, "name": "Christian Norgaard", "number": 16, "position": "Midfielder", "appearances": 17 },
+      { "id": 14, "name": "Mikel Merino", "number": 23, "position": "Midfielder", "appearances": 16 },
+      { "id": 15, "name": "Martin Zubimendi", "number": 36, "position": "Midfielder", "appearances": 15 },
+      { "id": 16, "name": "Declan Rice", "number": 41, "position": "Midfielder", "appearances": 14 },
+      { "id": 17, "name": "Bukayo Saka", "number": 7, "position": "Forward", "appearances": 13 },
+      { "id": 18, "name": "Gabriel Jesus", "number": 9, "position": "Forward", "appearances": 13 },
+      { "id": 19, "name": "Eberechi Eze", "number": 10, "position": "Forward", "appearances": 13 },
+      { "id": 20, "name": "Gabriel Martinelli", "number": 11, "position": "Forward", "appearances": 13 },
+      { "id": 21, "name": "Viktor Gyokeres", "number": 14, "position": "Forward", "appearances": 13 },
+      { "id": 22, "name": "Leandro Trossard", "number": 19, "position": "Forward", "appearances": 13 },
+      { "id": 23, "name": "Noni Madueke", "number": 20, "position": "Forward", "appearances": 13 },
+      { "id": 24, "name": "Kai Havertz", "number": 29, "position": "Forward", "appearances": 13 }
+    ],
+    "Women": [
+      { "id": 1, "name": "Manuela Zinsberger", "position": "Goalkeeper", "number": 1, "appearances": 22 },
+      { "id": 2, "name": "Emily Fox", "position": "Defender", "number": 2, "appearances": 20 },
+      { "id": 3, "name": "Beth Mead", "position": "Forward", "number": 9, "appearances": 21 },
+      { "id": 4, "name": "Vivianne Miedema", "position": "Forward", "number": 14, "appearances": 19 },
+      { "id": 5, "name": "Leah Williamson", "position": "Defender", "number": 6, "appearances": 18 },
+      { "id": 6, "name": "Lina Hurtig", "position": "Forward", "number": 10, "appearances": 16 },
+      { "id": 7, "name": "Katie McCabe", "position": "Defender", "number": 15, "appearances": 22 },
+      { "id": 8, "name": "Gio Reyna", "position": "Midfielder", "number": 20, "appearances": 17 }
+    ],
+    "Academy": [
+      { "id": 1, "name": "Remy Mitchell", "position": "Goalkeeper", "number": 47, "appearances": 8 },
+      { "id": 2, "name": "Alexei Rojas", "position": "Goalkeeper", "number": 51, "appearances": 8 },
+      { "id": 16, "name": "Ethan Nwaneri", "position": "Midfielder", "number": 65, "appearances": 3 },
+      { "id": 17, "name": "Jayden Harrison", "position": "Forward", "number": 68, "appearances": 4 }
+    ]
+  },
+  "leagueTable": {
+    "Men": [
+      { "position": 1, "team": "Arsenal", "played": 22, "won": 18, "drawn": 2, "lost": 2, "gf": 64, "ga": 20, "gd": 44, "points": 56 },
+      { "position": 2, "team": "Liverpool", "played": 22, "won": 17, "drawn": 3, "lost": 2, "gf": 61, "ga": 18, "gd": 43, "points": 54 }
+    ],
+    "Women": [
+      { "position": 1, "team": "Arsenal", "played": 22, "won": 18, "drawn": 2, "lost": 2, "gf": 64, "ga": 20, "gd": 44, "points": 56 }
+    ],
+    "Academy": [
+      { "position": 1, "team": "Arsenal U-18", "played": 18, "won": 15, "drawn": 2, "lost": 1, "gf": 58, "ga": 12, "gd": 46, "points": 47 }
+    ]
+  },
+  "stats": {
+    "Men": { "goalsFor": 64, "goalsAgainst": 20, "possession": "61%", "shotsOnTarget": 156, "passAccuracy": "89%" },
+    "Women": { "goalsFor": 64, "goalsAgainst": 20, "possession": "58%", "shotsOnTarget": 142, "passAccuracy": "87%" },
+    "Academy": { "goalsFor": 58, "goalsAgainst": 12, "possession": "65%", "shotsOnTarget": 168, "passAccuracy": "91%" }
+  }
+}
