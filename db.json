@@ -73,4 +73,114 @@
     "Women": { "goalsFor": 64, "goalsAgainst": 20, "possession": "58%", "shotsOnTarget": 142, "passAccuracy": "87%" },
     "Academy": { "goalsFor": 58, "goalsAgainst": 12, "possession": "65%", "shotsOnTarget": 168, "passAccuracy": "91%" }
   }
+  "news": [
+    {
+      "id": 1,
+      "title": "Arsenal Advances to Cup Final",
+      "date": "2026-02-05",
+      "type": "Men",
+      "category": "Competition",
+      "excerpt": "Arsenal secured their place in the cup final with an impressive 3-1 victory...",
+      "content": "Arsenal secured their place in the cup final with an impressive 3-1 victory over their rivals. The Gunners dominated from start to finish...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Cup+Final",
+      "tags": ["Men's Team", "Cup", "Victory"]
+    },
+    {
+      "id": 2,
+      "title": "Young Talent Signs Long-Term Contract",
+      "date": "2026-02-03",
+      "type": "Men",
+      "category": "Transfer",
+      "excerpt": "Rising star commits future to the club with new five-year deal...",
+      "content": "Arsenal is delighted to announce that young talent has signed a new long-term contract...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Contract",
+      "tags": ["Transfer", "Contract", "Men's Team"]
+    },
+    {
+      "id": 3,
+      "title": "Injury Recovery Update",
+      "date": "2026-02-01",
+      "type": "Men",
+      "category": "Team News",
+      "excerpt": "Latest update on squad injuries as we prepare for upcoming fixtures...",
+      "content": "Manager provides positive updates on injured players...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Team+News",
+      "tags": ["Team News", "Injury", "Men's Team"]
+    },
+    {
+      "id": 4,
+      "title": "Women's Team Sets New Record",
+      "date": "2026-01-30",
+      "type": "Women",
+      "category": "Achievement",
+      "excerpt": "Arsenal Women break club record for consecutive league victories...",
+      "content": "Arsenal Women's team has set a new club record...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Record",
+      "tags": ["Women's Team", "Record", "Achievement"]
+    },
+    {
+      "id": 5,
+      "title": "Young Prospect Joins Women's Team",
+      "date": "2026-01-28",
+      "type": "Women",
+      "category": "Transfer",
+      "excerpt": "Exciting new signing brings fresh talent to the women's squad...",
+      "content": "Arsenal Women announce the signing of exciting young prospect...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Signing",
+      "tags": ["Women's Team", "Transfer", "Signing"]
+    },
+    {
+      "id": 6,
+      "title": "Academy Graduates Make First Team Debut",
+      "date": "2026-01-25",
+      "type": "Academy",
+      "category": "Development",
+      "excerpt": "Three academy players take their place in the first team squad...",
+      "content": "Three talented academy graduates made their first team debuts...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Academy",
+      "tags": ["Academy", "Development", "First Team"]
+    },
+    {
+      "id": 7,
+      "title": "U-18s Win Youth Championship",
+      "date": "2026-01-22",
+      "type": "Academy",
+      "category": "Achievement",
+      "excerpt": "Arsenal U-18s claim championship title with impressive display...",
+      "content": "Arsenal U-18s secured the youth championship title...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Championship",
+      "tags": ["Academy", "U-18", "Championship"]
+    },
+    {
+      "id": 8,
+      "title": "Club Announces New Training Facility",
+      "date": "2026-01-20",
+      "type": "Club",
+      "category": "News",
+      "excerpt": "State-of-the-art facility will enhance player development and recovery...",
+      "content": "Arsenal announces investment in new state-of-the-art training facility...",
+      "author": "Arsenal Media Team",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Facility",
+      "tags": ["Club", "Facility", "Infrastructure"]
+    },
+    {
+      "id": 9,
+      "title": "Community Programme Reaches Milestone",
+      "date": "2026-01-18",
+      "type": "Club",
+      "category": "Community",
+      "excerpt": "Arsenal's outreach initiative now reaches thousands of young people...",
+      "content": "Arsenal Foundation's community programme reaches milestone...",
+      "author": "Arsenal Foundation",
+      "imageUrl": "https://via.placeholder.com/800x400?text=Community",
+      "tags": ["Club", "Community", "Foundation"]
+    }
+  ]
 }
