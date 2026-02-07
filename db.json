@@ -1,6 +1,6 @@
 {
   "squads": {
-     Men: [
+     "Men": [
     { id: 1, name: 'David Raya', number: 1, position: 'Goalkeeper', appearances: 25 },
     { id: 2, name: 'Kepa Arrizabalaga', number: 13, position: 'Goalkeeper', appearances: 22 },
     { id: 3, name: 'Tommy Setford', number: 35, position: 'Goalkeeper', appearances: 18 },
@@ -26,7 +26,7 @@
     { id: 23, name: 'Noni Madueke', number: 20, position:'Forward', appearances :13 },
     { id: 24, name: 'Kai Havertz', number: 29, position: 'Forward', appearances: 13 },
     ],
-    Women: [
+    "Women": [
       { id: 1, name: 'Manuela Zinsberger', position: 'Goalkeeper', number: 1, appearances: 22 },
       { id: 2, name: 'Emily Fox', position: 'Defender', number: 2, appearances: 20 },
       { id: 3, name: 'Beth Mead', position: 'Forward', number: 9, appearances: 21 },
@@ -36,7 +36,7 @@
       { id: 7, name: 'Katie McCabe', position: 'Defender', number: 15, appearances: 22 },
       { id: 8, name: 'Gio Reyna', position: 'Midfielder', number: 20, appearances: 17 },
     ],
-    Academy: [
+    "Academy": [
       { id: 1, name: 'Remy Mitchell', position: 'Goalkeeper', number: 47, appearances: 8 },
       { id: 2, name: 'Alexei Rojas', position: 'Goalkeeper', number: 51, appearances: 8 },
       { id: 3, name: 'Jack Porter', position: 'Goalkeeper', number: 78, appearances: 8 },
